@@ -1,0 +1,29 @@
+{
+    "": [
+        "img", 
+        "template2"
+    ], 
+    "template2": [
+        "gallery"
+    ], 
+    "template2/gallery/default-skin": [
+        "2022-05-13.txt"
+    ], 
+    "template2/gallery": [
+        "default-skin"
+    ], 
+    "__positions": {
+        "template2": 2, 
+        "template2/gallery/default-skin": 2001001, 
+        "template2/gallery/default-skin/2022-05-13.txt": 2001001001, 
+        "img": 1, 
+        "template2/gallery": 2001
+    }, 
+    "__raw_positions": {
+        "template2": 2, 
+        "template2/gallery/default-skin": 1, 
+        "template2/gallery/default-skin/2022-05-13.txt": 1, 
+        "template2/gallery": 1, 
+        "img": 1
+    }
+}
